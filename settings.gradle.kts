@@ -12,7 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "fading"
-include ':app'
-include ':app'
-include ':app'
+
+rootProject.name = "My Application"
